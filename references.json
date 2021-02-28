@@ -1,22 +1,19 @@
 {
-   "person": [
+   "positions": [
        {
-           "firstName": "Clark",
-           "lastName": "Kent",
-           "job": "Reporter",
-           "roll": 20
+           "position": "kreativ leder",
+           "employer": "R8 Edge",
+           "link": "https://r8edge.no",
        },
        {
-           "firstName": "Bruce",
-           "lastName": "Wayne",
-           "job": "Playboy",
-           "roll": 30
+         "position": "Clark",
+         "employer": "Kent",
+         "link": "Reporter",
        },
        {
-           "firstName": "Peter",
-           "lastName": "Parker",
-           "job": "Photographer",
-           "roll": 40
+         "position": "Clark",
+         "employer": "Kent",
+         "link": "Reporter",
        }
    ]
 }

@@ -1,7 +1,13 @@
 https://purifycss.online/#
 
-https://gtmetrix.com/reports/barcley.no/COhwAHu8/retest
+https://gtmetrix.com/
 
-https://www.webpagetest.org/result/210220_DiQ5_44d674eef0a28a9b24c241295142ce45/1/details/
+https://www.webpagetest.org/
 
-https://tools.pingdom.com/#5df043f04d000000
+https://tools.pingdom.com/
+
+https://developers.google.com/speed/pagespeed/insights/?hl=no
+
+https://accessibilitytest.org/
+
+https://jigsaw.w3.org/css-validator/
