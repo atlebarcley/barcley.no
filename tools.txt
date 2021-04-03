@@ -19,3 +19,5 @@ https://validator.w3.org/
 https://www.seobility.net/en/seocheck/
 
 https://www.seotesteronline.com/
+
+https://blog.teamtreehouse.com/using-github-pages-to-host-your-website
