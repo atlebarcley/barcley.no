@@ -20,4 +20,8 @@ https://www.seobility.net/en/seocheck/
 
 https://www.seotesteronline.com/
 
+//
+
 https://blog.teamtreehouse.com/using-github-pages-to-host-your-website
+
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
